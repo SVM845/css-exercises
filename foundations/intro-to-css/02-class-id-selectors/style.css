@@ -1,6 +1,6 @@
 .odd_numbers {
     background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .odd_numbers.third_number {
     font-size: 24px;
